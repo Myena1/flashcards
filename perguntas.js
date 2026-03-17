@@ -1,6 +1,6 @@
 criaCartao(
     'Matemática',
-    'Quanto e 1+1?',
+    'Quanto é 1+1?',
     '1+1 é igual a 2'
 )
 
@@ -18,19 +18,19 @@ criaCartao(
 
 criaCartao(
     'Música',
-    'Qual principal gênero musical no Brasil?',
+    'Qual o principal gênero musical no Brasil?',
     'A MPB(Música Popular Brasileira)'
 )
 
 
 criaCartao(
     'História',
-    'Quando e o dia da conciência negra?',
+    'Quando é o dia da conciência negra?',
     'Dia 20 de novembro'
 )
 
 criaCartao(
     'História',
-    'Quando e o dia do Saci?',
+    'Quando é o dia do Saci?',
     'Dia 31 de Outubro'
 )
