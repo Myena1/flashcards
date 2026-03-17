@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Música',
     'Qual principal gênero musical no Brasil?',
-    'A MPB(Mísica Popular Brasileira)'
+    'A MPB(Música Popular Brasileira)'
 )
 
 
